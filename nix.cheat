@@ -1,0 +1,7 @@
+% nix, nixpkgs, nix-shell
+
+# Update nixpackages
+update
+
+# Reload from home-manager configuration
+hswitch
